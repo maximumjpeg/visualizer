@@ -1,0 +1,12 @@
+{
+  "name": "visualizer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maximumjpeg/visualizer.git",
+  "author": "Jordan Addleman <xibalbarising@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
